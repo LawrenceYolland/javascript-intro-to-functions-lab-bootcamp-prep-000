@@ -2,6 +2,11 @@ function shout(string) {
   return string.toUpperCase()
 }
 
+function whisper(string) {
+  
+}
+
+
 function sayHiToGrandma(string) {
   var lowercase = string.toLowerCase()
   var uppercase = string.toUpperCase()
