@@ -2,6 +2,6 @@ function shout(string) {
   return string.toUpperCase()
 }
 
-function sayHiToGrandma() {
+function sayHiToGrandma(string) {
   
 }
